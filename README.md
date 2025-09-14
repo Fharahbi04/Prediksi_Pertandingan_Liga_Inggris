@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk membangun model machnine learning yang memprediksi pe
 Kagle : [Premier League Match Result](https://www.kaggle.com/datasets/pourea/premier-league-match-results)
 
 ## Tahapan Proyek
-- Load Dataset,kemudian melakukan Eksp;orasi dan analisis dataset.
+- Load Dataset,kemudian melakukan Eksplorasi dan analisis dataset.
 - Pemrosesan data dengan mengambil fitur dan labelnya.
 - Splitting data
 - Membangun model machine learning, dengan membandingkan 3 algoritma yaitu Random Forest,Naive Bayes, dan SVM.
